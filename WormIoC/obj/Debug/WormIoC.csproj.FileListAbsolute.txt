@@ -1,0 +1,5 @@
+C:\Users\srodman\Documents\Visual Studio 2013\Projects\WormIoC\WormIoC\bin\Debug\WormIoC.exe
+C:\Users\srodman\Documents\Visual Studio 2013\Projects\WormIoC\WormIoC\bin\Debug\WormIoC.pdb
+C:\Users\srodman\Documents\Visual Studio 2013\Projects\WormIoC\WormIoC\obj\Debug\WormIoC.csprojResolveAssemblyReference.cache
+C:\Users\srodman\Documents\Visual Studio 2013\Projects\WormIoC\WormIoC\obj\Debug\WormIoC.exe
+C:\Users\srodman\Documents\Visual Studio 2013\Projects\WormIoC\WormIoC\obj\Debug\WormIoC.pdb
